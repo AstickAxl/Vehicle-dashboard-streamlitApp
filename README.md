@@ -34,7 +34,7 @@ Este proyecto es una aplicación web interactiva construida con **Streamlit**, q
 
    1. Clona el repositorio:
 
-git clone (https://github.com/AstickAxl/PROJECT-S7.git)
+git clone ([https://github.com/AstickAxl/PROJECT-S7.git](https://github.com/AstickAxl/Vehicle-dashboard-streamlitApp.git))
 
    2. Instala las dependencias:
    
@@ -48,7 +48,7 @@ streamlit run app.py
 
 ## 📁 Estructura del proyecto
 
-vehicle_dashboard_streamlit/
+vehicle_dashboard_streamlitApp/
 
 ├── app.py #Aplicación Streamlit
 
